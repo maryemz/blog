@@ -1,5 +1,5 @@
 <template>
-        <div class="row content_div">
+        <div class="post_details_div">
             <div class="col-12">
                    <div class="col-12 post_title">
                          <p>{{offre.Title}}</p>
