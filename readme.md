@@ -1,14 +1,16 @@
 
 1. git clone https://github.com/maryemz/blog.git
 
-2. création du .env ,
+2. Lancer la commande :composer update --no-scripts ,
 
-3. php artisan migrate ,
+3. création du .env ,
 
-4. php artisan db:seed --class=CategoriesTableSeeder
+4. Lancer la commande : php artisan migrate ,
 
-5. php artisan db:seed --class=SecteurTableSeeder
+5. Lancer la commande : php artisan db:seed --class=CategoriesTableSeeder
 
-6.npm install
+6. Lancer la commande : php artisan db:seed --class=SecteurTableSeeder
 
-7.npm run watch
+7.Lancer la commande : npm install
+
+8.Lancer la commande : npm run watch
